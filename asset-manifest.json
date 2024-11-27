@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/prismonix02/static/css/main.599563fe.css",
+    "main.js": "/prismonix02/static/js/main.1d95a915.js",
+    "static/js/453.bc62d606.chunk.js": "/prismonix02/static/js/453.bc62d606.chunk.js",
+    "static/media/LandingPageBG.jpeg": "/prismonix02/static/media/LandingPageBG.1df4a2abba749a037cb8.jpeg",
+    "index.html": "/prismonix02/index.html",
+    "main.599563fe.css.map": "/prismonix02/static/css/main.599563fe.css.map",
+    "main.1d95a915.js.map": "/prismonix02/static/js/main.1d95a915.js.map",
+    "453.bc62d606.chunk.js.map": "/prismonix02/static/js/453.bc62d606.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.599563fe.css",
+    "static/js/main.1d95a915.js"
+  ]
+}
